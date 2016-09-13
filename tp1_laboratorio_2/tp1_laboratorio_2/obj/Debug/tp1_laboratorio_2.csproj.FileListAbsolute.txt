@@ -1,0 +1,8 @@
+C:\Users\gustavo\Desktop\C#\tp1_laboratorio_2\tp1_laboratorio_2\bin\Debug\tp1_laboratorio_2.exe.config
+C:\Users\gustavo\Desktop\C#\tp1_laboratorio_2\tp1_laboratorio_2\bin\Debug\tp1_laboratorio_2.exe
+C:\Users\gustavo\Desktop\C#\tp1_laboratorio_2\tp1_laboratorio_2\bin\Debug\tp1_laboratorio_2.pdb
+C:\Users\gustavo\Desktop\C#\tp1_laboratorio_2\tp1_laboratorio_2\obj\Debug\tp1_laboratorio_2.csprojResolveAssemblyReference.cache
+C:\Users\gustavo\Desktop\C#\tp1_laboratorio_2\tp1_laboratorio_2\obj\Debug\tp1_laboratorio_2.Properties.Resources.resources
+C:\Users\gustavo\Desktop\C#\tp1_laboratorio_2\tp1_laboratorio_2\obj\Debug\tp1_laboratorio_2.csproj.GenerateResource.Cache
+C:\Users\gustavo\Desktop\C#\tp1_laboratorio_2\tp1_laboratorio_2\obj\Debug\tp1_laboratorio_2.exe
+C:\Users\gustavo\Desktop\C#\tp1_laboratorio_2\tp1_laboratorio_2\obj\Debug\tp1_laboratorio_2.pdb
