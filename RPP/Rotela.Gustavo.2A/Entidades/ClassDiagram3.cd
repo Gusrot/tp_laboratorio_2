@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Entidades.Estante" Collapsed="true">
+    <Position X="9.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAQAEAAAAEAAAEAAAgAAAAAAAAYig=</HashCode>
+      <FileName>Estante.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Entidades.Galletita" Collapsed="true">
+    <Position X="2.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAgAAAEAQAAAAAAgAAAIAAAAAA=</HashCode>
+      <FileName>Galletita.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Entidades.Gaseosa" Collapsed="true">
+    <Position X="7.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAAAAAAAAAEAAAAAAAEAQAQAAAAAAAAIAAAAAA=</HashCode>
+      <FileName>Gaseosa.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Entidades.Harina" Collapsed="true">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAEAQABAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Harina.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Entidades.Jugo" Collapsed="true">
+    <Position X="5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAgAAAAEAQAAAAAEAAAAIAAAAAA=</HashCode>
+      <FileName>Jugo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Entidades.Producto" Collapsed="true">
+    <Position X="3.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAoBAAAAACAAAAwAAAAAAQAQAEAAAAAAAAIAAAAmA=</HashCode>
+      <FileName>Producto.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
