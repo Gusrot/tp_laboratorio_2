@@ -3,3 +3,8 @@ C:\Users\gustavo\Desktop\C# todo\Rotela.Gustavo.2A\Entidades\bin\Debug\Entidades
 C:\Users\gustavo\Desktop\C# todo\Rotela.Gustavo.2A\Entidades\bin\Debug\Entidades.pdb
 C:\Users\gustavo\Desktop\C# todo\Rotela.Gustavo.2A\Entidades\obj\Debug\Entidades.dll
 C:\Users\gustavo\Desktop\C# todo\Rotela.Gustavo.2A\Entidades\obj\Debug\Entidades.pdb
+C:\Users\gustavo\Desktop\tp_laboratorio_2\RPP\Rotela.Gustavo.2A\Entidades\bin\Debug\Entidades.dll
+C:\Users\gustavo\Desktop\tp_laboratorio_2\RPP\Rotela.Gustavo.2A\Entidades\bin\Debug\Entidades.pdb
+C:\Users\gustavo\Desktop\tp_laboratorio_2\RPP\Rotela.Gustavo.2A\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+C:\Users\gustavo\Desktop\tp_laboratorio_2\RPP\Rotela.Gustavo.2A\Entidades\obj\Debug\Entidades.dll
+C:\Users\gustavo\Desktop\tp_laboratorio_2\RPP\Rotela.Gustavo.2A\Entidades\obj\Debug\Entidades.pdb

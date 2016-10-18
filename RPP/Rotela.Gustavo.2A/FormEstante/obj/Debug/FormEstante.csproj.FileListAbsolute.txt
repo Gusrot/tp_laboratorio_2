@@ -11,3 +11,16 @@ C:\Users\gustavo\Desktop\C# todo\Rotela.Gustavo.2A\FormEstante\obj\Debug\FormEst
 C:\Users\gustavo\Desktop\C# todo\Rotela.Gustavo.2A\FormEstante\obj\Debug\FormEstante.csproj.GenerateResource.Cache
 C:\Users\gustavo\Desktop\C# todo\Rotela.Gustavo.2A\FormEstante\obj\Debug\FormEstante.exe
 C:\Users\gustavo\Desktop\C# todo\Rotela.Gustavo.2A\FormEstante\obj\Debug\FormEstante.pdb
+C:\Users\gustavo\Desktop\tp_laboratorio_2\RPP\Rotela.Gustavo.2A\FormEstante\bin\Debug\FormEstante.exe.config
+C:\Users\gustavo\Desktop\tp_laboratorio_2\RPP\Rotela.Gustavo.2A\FormEstante\obj\Debug\FormEstante.exe
+C:\Users\gustavo\Desktop\tp_laboratorio_2\RPP\Rotela.Gustavo.2A\FormEstante\obj\Debug\FormEstante.pdb
+C:\Users\gustavo\Desktop\tp_laboratorio_2\RPP\Rotela.Gustavo.2A\FormEstante\bin\Debug\FormEstante.exe
+C:\Users\gustavo\Desktop\tp_laboratorio_2\RPP\Rotela.Gustavo.2A\FormEstante\bin\Debug\FormEstante.pdb
+C:\Users\gustavo\Desktop\tp_laboratorio_2\RPP\Rotela.Gustavo.2A\FormEstante\bin\Debug\Entidades.dll
+C:\Users\gustavo\Desktop\tp_laboratorio_2\RPP\Rotela.Gustavo.2A\FormEstante\bin\Debug\TestEstante.exe
+C:\Users\gustavo\Desktop\tp_laboratorio_2\RPP\Rotela.Gustavo.2A\FormEstante\bin\Debug\Entidades.pdb
+C:\Users\gustavo\Desktop\tp_laboratorio_2\RPP\Rotela.Gustavo.2A\FormEstante\bin\Debug\TestEstante.pdb
+C:\Users\gustavo\Desktop\tp_laboratorio_2\RPP\Rotela.Gustavo.2A\FormEstante\obj\Debug\FormEstante.csprojResolveAssemblyReference.cache
+C:\Users\gustavo\Desktop\tp_laboratorio_2\RPP\Rotela.Gustavo.2A\FormEstante\obj\Debug\FormEstante.Form1.resources
+C:\Users\gustavo\Desktop\tp_laboratorio_2\RPP\Rotela.Gustavo.2A\FormEstante\obj\Debug\FormEstante.Properties.Resources.resources
+C:\Users\gustavo\Desktop\tp_laboratorio_2\RPP\Rotela.Gustavo.2A\FormEstante\obj\Debug\FormEstante.csproj.GenerateResource.Cache

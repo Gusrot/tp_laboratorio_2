@@ -6,3 +6,11 @@ C:\Users\gustavo\Desktop\C# todo\Rotela.Gustavo.2A\TestEstante\bin\Debug\Entidad
 C:\Users\gustavo\Desktop\C# todo\Rotela.Gustavo.2A\TestEstante\obj\Debug\TestEstante.csprojResolveAssemblyReference.cache
 C:\Users\gustavo\Desktop\C# todo\Rotela.Gustavo.2A\TestEstante\obj\Debug\TestEstante.exe
 C:\Users\gustavo\Desktop\C# todo\Rotela.Gustavo.2A\TestEstante\obj\Debug\TestEstante.pdb
+C:\Users\gustavo\Desktop\tp_laboratorio_2\RPP\Rotela.Gustavo.2A\TestEstante\bin\Debug\TestEstante.exe.config
+C:\Users\gustavo\Desktop\tp_laboratorio_2\RPP\Rotela.Gustavo.2A\TestEstante\obj\Debug\TestEstante.exe
+C:\Users\gustavo\Desktop\tp_laboratorio_2\RPP\Rotela.Gustavo.2A\TestEstante\obj\Debug\TestEstante.pdb
+C:\Users\gustavo\Desktop\tp_laboratorio_2\RPP\Rotela.Gustavo.2A\TestEstante\bin\Debug\TestEstante.exe
+C:\Users\gustavo\Desktop\tp_laboratorio_2\RPP\Rotela.Gustavo.2A\TestEstante\bin\Debug\TestEstante.pdb
+C:\Users\gustavo\Desktop\tp_laboratorio_2\RPP\Rotela.Gustavo.2A\TestEstante\bin\Debug\Entidades.dll
+C:\Users\gustavo\Desktop\tp_laboratorio_2\RPP\Rotela.Gustavo.2A\TestEstante\bin\Debug\Entidades.pdb
+C:\Users\gustavo\Desktop\tp_laboratorio_2\RPP\Rotela.Gustavo.2A\TestEstante\obj\Debug\TestEstante.csprojResolveAssemblyReference.cache

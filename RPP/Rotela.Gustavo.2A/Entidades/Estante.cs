@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Xml;
 
 namespace Entidades
 {
@@ -216,16 +217,51 @@ namespace Entidades
                 System.IO.File.WriteAllText(@"C:\Users\gustavo\Desktop\Prueba\Estantes.txt", sb.ToString());
         }
 
-        public static void SerializarEstante(Estante e, string info)
+        public static void SerializarEstante(Estante e1,Estante e2, string info1, string info2)
         {
-            System.Xml.Serialization.XmlSerializer xml = new System.Xml.Serialization.XmlSerializer(info.GetType());
+            System.Xml.Serialization.XmlSerializer xml = new System.Xml.Serialization.XmlSerializer(info1.GetType());
             System.IO.StreamWriter file = new System.IO.StreamWriter(@"C:\Users\gustavo\Desktop\Prueba\Serializacion.xml");
 
-            xml.Serialize(file, MostrarEstante(e));
+            DateTime date = DateTime.Now;
+            StringBuilder sb = new StringBuilder();
+
+            sb.AppendLine(info1 + " (" + date.ToString() + ")");
+            sb.AppendLine("\r\nValor del estante: " + e1.ValorEstanteTotal);
+            sb.AppendLine("\r\nCapacidad: " + e1._capacidad.ToString());
+            sb.AppendLine("\nCantidad de productos: " + e1._productos.Count);
+            sb.AppendLine("\r\n" + MostrarEstante(e1));
+            sb.AppendLine(info2 + " (" + date.ToString() + ")");
+            sb.AppendLine("\r\nValor del estante: " + e2.ValorEstanteTotal);
+            sb.AppendLine("\r\nCapacidad: " + e2._capacidad.ToString());
+            sb.AppendLine("\nCantidad de productos: " + e2._productos.Count);
+            sb.AppendLine("\r\n" + MostrarEstante(e2));
+
+            xml.Serialize(file, sb.ToString());
             file.Close();
         }
 
-        //public static void DeserializarEstante(Estante e, )
+        public static void DeserializarEstante()
+        {
+            XmlTextReader lector = new XmlTextReader(@"C:\Users\gustavo\Desktop\Prueba\Serializacion.xml");
+            while (lector.Read())
+            {
+                switch (lector.NodeType)
+                {
+                    case XmlNodeType.Element:
+                        Console.Write("<" + lector.Name);
+                        Console.WriteLine(">");
+                        break;
+                    case XmlNodeType.Text:
+                        Console.WriteLine(lector.Value);
+                        break;
+                    case XmlNodeType.EndElement:
+                        Console.Write("</" + lector.Name);
+                        Console.WriteLine(">");
+                        break;
+                }
+            }
+            Console.ReadLine();
+        }
 
         #endregion
     }
