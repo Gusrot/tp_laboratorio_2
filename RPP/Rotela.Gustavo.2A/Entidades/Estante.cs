@@ -7,11 +7,8 @@ using System.Xml;
 
 namespace Entidades
 {
-#pragma warning disable CS0660 // Type defines operator == or operator != but does not override Object.Equals(object o)
-#pragma warning disable CS0661 // Type defines operator == or operator != but does not override Object.GetHashCode()
+
     public class Estante
-#pragma warning restore CS0661 // Type defines operator == or operator != but does not override Object.GetHashCode()
-#pragma warning restore CS0660 // Type defines operator == or operator != but does not override Object.Equals(object o)
     {
         protected sbyte _capacidad;
         protected List<Producto> _productos;
