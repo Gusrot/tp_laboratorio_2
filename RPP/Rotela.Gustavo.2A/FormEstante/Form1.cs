@@ -57,6 +57,11 @@ namespace FormEstante
            Estante.MostrarEstante(est2));
         }
 
+        /// <summary>
+        /// Genera 2 colecciones.
+        /// </summary>
+        /// <param name="est1"></param>
+        /// <param name="est2"></param>
         private void CargarEstante(out Estante est1, out Estante est2)
         {
             Estante e1 = new Estante(4);

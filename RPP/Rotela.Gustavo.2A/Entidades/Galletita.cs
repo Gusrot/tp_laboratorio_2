@@ -8,7 +8,7 @@ namespace Entidades
 {
     public class Galletita:Producto
     {
-        protected float _peso;
+        private float _peso;
         protected static bool DeConsumo;
 
         #region Propiedades
@@ -16,7 +16,7 @@ namespace Entidades
         /// <summary>
         /// Propiedad que calcula el coste de fabricacion del producto.
         /// </summary>
-        public override float CalcularCostoDeProducto
+        public override float CalcularCostoDeProduccion
         {
             get { return this.Precio * 0.33f; }
         }

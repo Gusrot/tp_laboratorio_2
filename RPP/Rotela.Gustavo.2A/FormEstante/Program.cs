@@ -20,9 +20,9 @@ namespace FormEstante
             Application.Run(new Form1());
         }
 
-        public static int OrdenarProductos(Producto p, Producto p1)
+        public static int OrdenarProductos(Producto p1, Producto p2)
         {
-            return String.Compare(p.Marca.ToString(), p1.Marca.ToString());
+            return String.Compare(p1.Marca.ToString(), p2.Marca.ToString());
         }
     }
 }

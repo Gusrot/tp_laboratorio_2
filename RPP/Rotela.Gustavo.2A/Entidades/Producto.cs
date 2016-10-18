@@ -18,7 +18,7 @@ namespace Entidades
         /// <summary>
         /// Propiedad abstracta. 
         /// </summary>
-        public abstract float CalcularCostoDeProducto
+        public abstract float CalcularCostoDeProduccion
         {
             get;
         }

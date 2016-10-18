@@ -8,7 +8,7 @@ namespace Entidades
 {
     public class Jugo:Producto
     {
-        protected ESaborJugo _sabor;
+        private ESaborJugo _sabor;
         protected static bool DeConsumo;
 
         #region Propiedades
@@ -16,7 +16,7 @@ namespace Entidades
         /// <summary>
         /// Propiedad que devuelve el costo de produccion del jugo
         /// </summary>
-        public override float CalcularCostoDeProducto
+        public override float CalcularCostoDeProduccion
         {
             get { return this.Precio * 0.4f; }
         }
@@ -53,12 +53,12 @@ namespace Entidades
         /// Metodo que devuelve un string con todos los datos del jugo.
         /// </summary>
         /// <returns></returns>
-        public string MostrarJugo()
+        private string MostrarJugo()
         {
             StringBuilder sb = new StringBuilder();
 
             sb.AppendLine("MARCA: " + this.Marca);
-            sb.AppendLine("CODIGO DE BARRAS: " + this._codigoBarra);
+            sb.AppendLine("CóDIGO DE BARRAS: " + this._codigoBarra);
             sb.AppendLine("PRECIO: " + this.Precio);
             sb.AppendLine("SABOR: " + this._sabor);
 

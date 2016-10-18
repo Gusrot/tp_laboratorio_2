@@ -16,7 +16,7 @@ namespace Entidades
         /// <summary>
         /// Propiedad que devuelve el costo de produccion de la harina.
         /// </summary>
-        public override float CalcularCostoDeProducto
+        public override float CalcularCostoDeProduccion
         {
             get { return this.Precio * 0.6f; }
         }

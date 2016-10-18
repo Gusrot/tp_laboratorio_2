@@ -217,6 +217,13 @@ namespace Entidades
                 System.IO.File.WriteAllText(@"C:\Users\gustavo\Desktop\Prueba\Estantes.txt", sb.ToString());
         }
 
+        /// <summary>
+        /// Genera un archivo xml que almacena los datos del estante.
+        /// </summary>
+        /// <param name="e1"></param>
+        /// <param name="e2"></param>
+        /// <param name="info1"></param>
+        /// <param name="info2"></param>
         public static void SerializarEstante(Estante e1,Estante e2, string info1, string info2)
         {
             System.Xml.Serialization.XmlSerializer xml = new System.Xml.Serialization.XmlSerializer(info1.GetType());
@@ -240,6 +247,9 @@ namespace Entidades
             file.Close();
         }
 
+        /// <summary>
+        /// Lee el archivo xml y lo escribe en consola.
+        /// </summary>
         public static void DeserializarEstante()
         {
             XmlTextReader lector = new XmlTextReader(@"C:\Users\gustavo\Desktop\Prueba\Serializacion.xml");

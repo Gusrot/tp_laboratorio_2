@@ -8,7 +8,7 @@ namespace Entidades
 {
     public class Gaseosa:Producto
     {
-        protected float _litros;
+        private float _litros;
         protected static bool DeConsumo;
 
         #region Propiedades
@@ -16,7 +16,7 @@ namespace Entidades
         /// <summary>
         /// Propiedad que devuelve el coste de produccion de la gaseosa.
         /// </summary>
-        public override float CalcularCostoDeProducto
+        public override float CalcularCostoDeProduccion
         {
             get { return this.Precio * 0.42f; }
         }

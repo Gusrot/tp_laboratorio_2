@@ -73,10 +73,6 @@ namespace TestEstante
             Console.WriteLine("Contenido Estante2:\n{0}", Estante.MostrarEstante(est2));
             Console.ReadLine();
 
-            
-            if (g1.Equals(est1))
-                Console.WriteLine("ANDA EL EQUALS");
-
             Estante.GuardarEstante(est1,"Estante 1");
             Estante.GuardarEstante(est2,"Estante 2");
             Estante.SerializarEstante(est1,est2, "Estante 1","Estante 2");
