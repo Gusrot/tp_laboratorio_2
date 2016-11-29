@@ -1,0 +1,14 @@
+C:\Users\gustavo\Desktop\C# todo\Rotela.Gustavo.2A.TP3\EntidadesAbstractas\bin\Debug\EntidadesAbstractas.dll
+C:\Users\gustavo\Desktop\C# todo\Rotela.Gustavo.2A.TP3\EntidadesAbstractas\bin\Debug\EntidadesAbstractas.pdb
+C:\Users\gustavo\Desktop\C# todo\Rotela.Gustavo.2A.TP3\EntidadesAbstractas\obj\Debug\EntidadesAbstractas.csprojResolveAssemblyReference.cache
+C:\Users\gustavo\Desktop\C# todo\Rotela.Gustavo.2A.TP3\EntidadesAbstractas\obj\Debug\EntidadesAbstractas.dll
+C:\Users\gustavo\Desktop\C# todo\Rotela.Gustavo.2A.TP3\EntidadesAbstractas\obj\Debug\EntidadesAbstractas.pdb
+C:\Users\gustavo\Desktop\C# todo\Rotela.Gustavo.2A.TP3\EntidadesAbstractas\bin\Debug\Excepciones.dll
+C:\Users\gustavo\Desktop\C# todo\Rotela.Gustavo.2A.TP3\EntidadesAbstractas\bin\Debug\Excepciones.pdb
+C:\Users\gustavo\Desktop\Rotela.Gustavo.2A.TP3\EntidadesAbstractas\bin\Debug\EntidadesAbstractas.dll
+C:\Users\gustavo\Desktop\Rotela.Gustavo.2A.TP3\EntidadesAbstractas\bin\Debug\EntidadesAbstractas.pdb
+C:\Users\gustavo\Desktop\Rotela.Gustavo.2A.TP3\EntidadesAbstractas\bin\Debug\Excepciones.dll
+C:\Users\gustavo\Desktop\Rotela.Gustavo.2A.TP3\EntidadesAbstractas\bin\Debug\Excepciones.pdb
+C:\Users\gustavo\Desktop\Rotela.Gustavo.2A.TP3\EntidadesAbstractas\obj\Debug\EntidadesAbstractas.csprojResolveAssemblyReference.cache
+C:\Users\gustavo\Desktop\Rotela.Gustavo.2A.TP3\EntidadesAbstractas\obj\Debug\EntidadesAbstractas.dll
+C:\Users\gustavo\Desktop\Rotela.Gustavo.2A.TP3\EntidadesAbstractas\obj\Debug\EntidadesAbstractas.pdb

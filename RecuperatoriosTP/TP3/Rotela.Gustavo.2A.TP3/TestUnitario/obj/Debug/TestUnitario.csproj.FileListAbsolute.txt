@@ -1,0 +1,14 @@
+C:\Users\gustavo\Desktop\C# todo\Rotela.Gustavo.2A.TP3\TestUnitario\bin\Debug\TestUnitario.dll
+C:\Users\gustavo\Desktop\C# todo\Rotela.Gustavo.2A.TP3\TestUnitario\bin\Debug\TestUnitario.pdb
+C:\Users\gustavo\Desktop\C# todo\Rotela.Gustavo.2A.TP3\TestUnitario\bin\Debug\Archivos.dll
+C:\Users\gustavo\Desktop\C# todo\Rotela.Gustavo.2A.TP3\TestUnitario\bin\Debug\EntidadesAbstractas.dll
+C:\Users\gustavo\Desktop\C# todo\Rotela.Gustavo.2A.TP3\TestUnitario\bin\Debug\EntidadesInstanciables.dll
+C:\Users\gustavo\Desktop\C# todo\Rotela.Gustavo.2A.TP3\TestUnitario\bin\Debug\Excepciones.dll
+C:\Users\gustavo\Desktop\C# todo\Rotela.Gustavo.2A.TP3\TestUnitario\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\gustavo\Desktop\C# todo\Rotela.Gustavo.2A.TP3\TestUnitario\bin\Debug\Archivos.pdb
+C:\Users\gustavo\Desktop\C# todo\Rotela.Gustavo.2A.TP3\TestUnitario\bin\Debug\EntidadesAbstractas.pdb
+C:\Users\gustavo\Desktop\C# todo\Rotela.Gustavo.2A.TP3\TestUnitario\bin\Debug\EntidadesInstanciables.pdb
+C:\Users\gustavo\Desktop\C# todo\Rotela.Gustavo.2A.TP3\TestUnitario\bin\Debug\Excepciones.pdb
+C:\Users\gustavo\Desktop\C# todo\Rotela.Gustavo.2A.TP3\TestUnitario\obj\Debug\TestUnitario.csprojResolveAssemblyReference.cache
+C:\Users\gustavo\Desktop\C# todo\Rotela.Gustavo.2A.TP3\TestUnitario\obj\Debug\TestUnitario.dll
+C:\Users\gustavo\Desktop\C# todo\Rotela.Gustavo.2A.TP3\TestUnitario\obj\Debug\TestUnitario.pdb

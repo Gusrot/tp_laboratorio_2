@@ -1,0 +1,26 @@
+C:\Users\gustavo\Desktop\C# todo\Rotela.Gustavo.2A.TP3\Aplicacion de Consola\bin\Debug\Aplicacion de Consola.exe
+C:\Users\gustavo\Desktop\C# todo\Rotela.Gustavo.2A.TP3\Aplicacion de Consola\bin\Debug\Aplicacion de Consola.pdb
+C:\Users\gustavo\Desktop\C# todo\Rotela.Gustavo.2A.TP3\Aplicacion de Consola\bin\Debug\Archivos.dll
+C:\Users\gustavo\Desktop\C# todo\Rotela.Gustavo.2A.TP3\Aplicacion de Consola\bin\Debug\EntidadesAbstractas.dll
+C:\Users\gustavo\Desktop\C# todo\Rotela.Gustavo.2A.TP3\Aplicacion de Consola\bin\Debug\EntidadesInstanciables.dll
+C:\Users\gustavo\Desktop\C# todo\Rotela.Gustavo.2A.TP3\Aplicacion de Consola\bin\Debug\Excepciones.dll
+C:\Users\gustavo\Desktop\C# todo\Rotela.Gustavo.2A.TP3\Aplicacion de Consola\bin\Debug\Archivos.pdb
+C:\Users\gustavo\Desktop\C# todo\Rotela.Gustavo.2A.TP3\Aplicacion de Consola\bin\Debug\EntidadesAbstractas.pdb
+C:\Users\gustavo\Desktop\C# todo\Rotela.Gustavo.2A.TP3\Aplicacion de Consola\bin\Debug\EntidadesInstanciables.pdb
+C:\Users\gustavo\Desktop\C# todo\Rotela.Gustavo.2A.TP3\Aplicacion de Consola\bin\Debug\Excepciones.pdb
+C:\Users\gustavo\Desktop\C# todo\Rotela.Gustavo.2A.TP3\Aplicacion de Consola\obj\Debug\Aplicacion de Consola.csprojResolveAssemblyReference.cache
+C:\Users\gustavo\Desktop\C# todo\Rotela.Gustavo.2A.TP3\Aplicacion de Consola\obj\Debug\Aplicacion de Consola.exe
+C:\Users\gustavo\Desktop\C# todo\Rotela.Gustavo.2A.TP3\Aplicacion de Consola\obj\Debug\Aplicacion de Consola.pdb
+C:\Users\gustavo\Desktop\Rotela.Gustavo.2A.TP3\Aplicacion de Consola\bin\Debug\Aplicacion de Consola.exe
+C:\Users\gustavo\Desktop\Rotela.Gustavo.2A.TP3\Aplicacion de Consola\bin\Debug\Aplicacion de Consola.pdb
+C:\Users\gustavo\Desktop\Rotela.Gustavo.2A.TP3\Aplicacion de Consola\bin\Debug\Archivos.dll
+C:\Users\gustavo\Desktop\Rotela.Gustavo.2A.TP3\Aplicacion de Consola\bin\Debug\EntidadesAbstractas.dll
+C:\Users\gustavo\Desktop\Rotela.Gustavo.2A.TP3\Aplicacion de Consola\bin\Debug\EntidadesInstanciables.dll
+C:\Users\gustavo\Desktop\Rotela.Gustavo.2A.TP3\Aplicacion de Consola\bin\Debug\Excepciones.dll
+C:\Users\gustavo\Desktop\Rotela.Gustavo.2A.TP3\Aplicacion de Consola\bin\Debug\Archivos.pdb
+C:\Users\gustavo\Desktop\Rotela.Gustavo.2A.TP3\Aplicacion de Consola\bin\Debug\EntidadesAbstractas.pdb
+C:\Users\gustavo\Desktop\Rotela.Gustavo.2A.TP3\Aplicacion de Consola\bin\Debug\EntidadesInstanciables.pdb
+C:\Users\gustavo\Desktop\Rotela.Gustavo.2A.TP3\Aplicacion de Consola\bin\Debug\Excepciones.pdb
+C:\Users\gustavo\Desktop\Rotela.Gustavo.2A.TP3\Aplicacion de Consola\obj\Debug\Aplicacion de Consola.csprojResolveAssemblyReference.cache
+C:\Users\gustavo\Desktop\Rotela.Gustavo.2A.TP3\Aplicacion de Consola\obj\Debug\Aplicacion de Consola.exe
+C:\Users\gustavo\Desktop\Rotela.Gustavo.2A.TP3\Aplicacion de Consola\obj\Debug\Aplicacion de Consola.pdb
